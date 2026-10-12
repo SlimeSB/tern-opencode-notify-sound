@@ -1,0 +1,7 @@
+schema = 1
+id = "opencode-notify"
+name = "opencode Notify Sounds"
+version = "0.1.0"
+description = "opencode's sound effects for agent turns, questions, failed and long commands, and pane alerts."
+icon = "bell"
+window = "window.luau"
